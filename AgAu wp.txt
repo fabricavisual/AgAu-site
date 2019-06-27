@@ -1,0 +1,3 @@
+http://agau.info/wp-admin/
+us:agau
+pass:cryptoCgoldnsilver
